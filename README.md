@@ -1,1 +1,3 @@
-# Django_with_AI_Model_Integration_Decision-Tree_project-2
+# Django with AI Model Integration Decision-Tree_project-2
+
+## Data Set: Gender Prediction using Decision Tree Algorith
